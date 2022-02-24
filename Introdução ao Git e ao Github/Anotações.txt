@@ -6,7 +6,7 @@ Passos para criar um repositório.
 Criar no GitHub.
 Obter clone HTTPS/SSH
 Abrir GitBash em uma pasta para repositório.
-Git Clone LINK
+Git Clone git clone <https://url-do-link>
 git add . // git add -a
 git commit -m "Mensagem"
 git push origin main
