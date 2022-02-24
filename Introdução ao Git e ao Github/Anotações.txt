@@ -1,2 +1,13 @@
 Link para download do git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Passos para criar um repositório.
+
+Criar no GitHub.
+Obter clone HTTPS/SSH
+Abrir GitBash em uma pasta para repositório.
+Git Clone LINK
+git add . // git add -a
+git commit -m "Mensagem"
+git push origin main
+
